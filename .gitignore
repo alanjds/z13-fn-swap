@@ -1,0 +1,4 @@
+vmlinux.h
+vmlinux.h.tmp
+*.bpf.o
+test/test_z13
